@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Duke University, Expected 2030  
+  **PhD in Statistical Science**  
+  GPA: 4.0/4.0
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bocconi University, 2025  
+  **MSc in Economic and Social Sciences**  
+  Visiting student at BayesLab, supervised by Giacomo Zanella  
+  Final grade: 110/110 cum laude
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bocconi University, 2023  
+  **BSc in International Economics and Finance**  
+  Final grade: 110/110 cum laude  
+  Exchange program at UC Riverside. Term GPA: 4.0/4.0
 
-Publications
+Professional Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Feb. 2024 - May 2024: Mediobanca Premier S.p.A., Mediobanca Group  
+  Part-Time Credit Risk Analyst  
+* Apr. 2022 - Aug. 2022: CheBanca! S.p.A., Mediobanca Group  
+  Credit Risk Intern  
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Duke University**
+* Spring 2026: TA for STA 240L Probability for Statistical Inference, Modeling, and Data Analysis
